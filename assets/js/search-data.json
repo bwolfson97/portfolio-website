@@ -4,7 +4,7 @@
         "post0": {
             "title": "Welcome to my Site!",
             "content": "Welcome to my personal website! Here I’ll showcase my technical projects, as well as write about any other topics I’m thinking about :). . Thanks for stopping by! .",
-            "url": "/2020/06/30/welcome-to-my-site.html",
+            "url": "https://www.brandonwolfson.com//2020/06/30/welcome-to-my-site.html",
             "relUrl": "/2020/06/30/welcome-to-my-site.html",
             "date": " • Jun 30, 2020"
         }
@@ -19,7 +19,7 @@
       ,"page1": {
           "title": "About Me",
           "content": ". I recently graduated from UCLA with a B.S. in Mathematics of Computation. I’m now a software engineer specializing in machine learning applications at Centauri. I’m interested in applying machine learning (and specifically deep learning) to practical problems. . Outside of programming, you can catch me performing improv comedy, reading nonfiction, or lifting weights. :) .",
-          "url": "/about/",
+          "url": "https://www.brandonwolfson.com//about/",
           "relUrl": "/about/",
           "date": ""
       }
@@ -30,7 +30,7 @@
       ,"page2": {
           "title": "Favorite Books",
           "content": "Here are a few books that have influenced my thinking :) . Cal Newport’s Deep Work and Digital Minimalism . Sal Khan’s The One World Schoolhouse: Education Reimagined . Barbara Oakley’s A Mind for Numbers: How to Excel at Math and Science . My favorite blogs: . Scott H. Young’s Blog | Cal Newport’s Blog | .",
-          "url": "/favorite-books/",
+          "url": "https://www.brandonwolfson.com//favorite-books/",
           "relUrl": "/favorite-books/",
           "date": ""
       }
@@ -43,7 +43,7 @@
       ,"page4": {
           "title": "Projects",
           "content": "Here is a sampling of some projects I’ve done outside of work. Enjoy! :) . Modeling COVID-19 Prevalence in US Prisons . . In this project, I used Python, the Epidemics on Networks (EoN) Python package, and Jupyter Notebooks to explore the effects of various interventions on the spread of COVID-19 in US prisons. This project was done as the final project of my UCLA Introduction to Networks course. It was a group project, with my group being me, Marcel Burgunder, Emma Broback, and Sam Briante. I did most of the coding and some writing. Marcel did some coding and lots of writing. Read our results here. .",
-          "url": "/projects/",
+          "url": "https://www.brandonwolfson.com//projects/",
           "relUrl": "/projects/",
           "date": ""
       }
@@ -76,7 +76,7 @@
       ,"page13": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
-          "url": "/robots.txt",
+          "url": "https://www.brandonwolfson.com//robots.txt",
           "relUrl": "/robots.txt",
           "date": ""
       }
