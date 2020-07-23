@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-![Me!](/assets/brandon.jpg)
+![Me!]({{ site.baseurl }}/images/brandon.jpg)
 
 I recently graduated from UCLA with a B.S. in Mathematics of Computation. I'm now a software engineer
 specializing in machine learning applications at [Centauri](https://www.centauricorp.com/). I'm interested 
