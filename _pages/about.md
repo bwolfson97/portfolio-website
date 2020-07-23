@@ -3,11 +3,10 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+![Me!](/assets/brandon.jpg)
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I recently graduated from UCLA with a B.S. in Mathematics of Computation. I'm now a software engineer
+specializing in machine learning applications at [Centauri](https://www.centauricorp.com/). I'm interested 
+in applying machine learning (and specifically deep learning) to practical problems.
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+Outside of programming, you can catch me performing improv comedy, reading nonfiction, or lifting weights. :)
