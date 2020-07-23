@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": ". I recently graduated from UCLA with a B.S. in Mathematics of Computation. I’m now a software engineer specializing in machine learning applications at Centauri. I’m interested in applying machine learning (and specifically deep learning) to practical problems. . Outside of programming, you can catch me performing improv comedy, reading nonfiction, or lifting weights. :) .",
           "url": "https://bwolfson97.github.io/portfolio-website/about/",
           "relUrl": "/about/",
           "date": ""
@@ -43,8 +43,6 @@
   
 
   
-
-  
   
 
   
@@ -53,13 +51,18 @@
   
 
   
+
+  
+  
+
+  
   
 
   
   
 
   
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://bwolfson97.github.io/portfolio-website/robots.txt",
