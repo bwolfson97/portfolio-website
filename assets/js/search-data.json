@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "Big Cat Classifier App",
+            "content": "I made a web app that classifies an image as either a lion, tiger, or leopard! Check it out here! . Note, this post will be updated with more information later! :) .",
+            "url": "https://www.brandonwolfson.com//2020/08/08/big-cat-classifier-app.html",
+            "relUrl": "/2020/08/08/big-cat-classifier-app.html",
+            "date": " • Aug 8, 2020"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "Welcome to my Site!",
             "content": "Welcome to my personal website! Here I’ll showcase my technical projects, as well as write about any other topics I’m thinking about :). . Thanks for stopping by! .",
             "url": "https://www.brandonwolfson.com//2020/06/30/welcome-to-my-site.html",
