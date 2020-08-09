@@ -7,6 +7,8 @@ Here are a few books that have influenced my thinking :)
 
 Cal Newport's *Deep Work* and *Digital Minimalism*
 
+Scott H. Young's *Ultralearning*
+
 Sal Khan's *The One World Schoolhouse: Education Reimagined*
 
 Barbara Oakley's *A Mind for Numbers: How to Excel at Math and Science*
