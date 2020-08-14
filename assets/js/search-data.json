@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "Poison Oak Classifier",
+            "content": "Similar to my Big Cat Classifier, I made a simple web app that classifies images of leafs as poison oak or not! Check it out here! . If you’re interested in how I made this app, check out the GitHub repo here. Note, it may take about a minute for the app to launch. .",
+            "url": "https://www.brandonwolfson.com//2020/08/14/poison-oak-classifier.html",
+            "relUrl": "/2020/08/14/poison-oak-classifier.html",
+            "date": " • Aug 14, 2020"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "Big Cat Classifier App",
             "content": "I made a web app that classifies an image as either a lion, tiger, or leopard! Check it out here! . Note, it may take about a minute for the app to launch. . Note, this post will be updated with more information later! :) .",
             "url": "https://www.brandonwolfson.com//2020/08/08/big-cat-classifier-app.html",
@@ -12,7 +23,7 @@
     
   
     
-        ,"post1": {
+        ,"post2": {
             "title": "Welcome to my Site!",
             "content": "Welcome to my personal website! Here I’ll showcase my technical projects, as well as write about any other topics I’m thinking about :). . Thanks for stopping by! .",
             "url": "https://www.brandonwolfson.com//2020/06/30/welcome-to-my-site.html",
