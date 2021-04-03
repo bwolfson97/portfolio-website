@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Importance of Validation and Test Sets"
+comments: true
 ---
 So you're studying machine learning and keep hearing about validation and test sets. You know they're important, but you're not sure *why*. That's what this article is about. Let's dive in!
 
